@@ -986,7 +986,7 @@ packages:
     resolution: {integrity: sha512-kfte3Hym//51EdX4239i+Rmp20EsLIYGdPkERegTgU19hQWCRhsRFGKHTliUlsry53tv17K7n077Kqa0WJU4ng==}
 
   /canvas@2.11.2:
-    resolution: {integrity: sha512-1d2aefa89dca91f7b054565c6d870909b707e379f462659a411ad26789773da8a03ff906536b9fdcd1a8e8be2d6e2edf0c24ffcea157a57e281a780172f981c8==}
+    resolution: {integrity: sha512-ItanGBMrmRV7Py2Z+Xhs7cT+FNt5K0vPL4p9EZ/UX/Mu7hFbkxSjKF2KVtPwX7UYWp7dRKnrTvReflgrItJbdw==}
     engines: {node: '>=6'}
     requiresBuild: true
     dependencies:
